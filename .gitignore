@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/plugins/*/data.json
+
+# Obsidian Copilot local chat/cache state
+copilot/copilot-conversations/
+copilot/memory/
+
+# Claude / local secrets
+.claude/settings.local.json
+.env
+.env.*
+*.key
+*.pem
+
+# Knowledge OS generated cache
+.knowledge/cache/
+.knowledge/logs/
+
+# Python / scripts cache
+__pycache__/
+*.pyc
+
+# Generated skill output
+Skills/Acquire/output/
+
+# Temporary files
+*.tmp
+*.bak

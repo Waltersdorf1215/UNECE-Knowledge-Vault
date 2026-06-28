@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:unece.org)",
+      "WebFetch(domain:wiki.unece.org)",
+      "WebFetch(domain:www.unece.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.sae.org)",
+      "WebFetch(domain:www.autonews.com)",
+      "WebFetch(domain:www.automotiveworld.com)",
+      "WebFetch(domain:www.just-auto.com)"
+    ]
+  }
+}
